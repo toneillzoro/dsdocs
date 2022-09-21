@@ -26,7 +26,7 @@ export default {
 
 <style lang="scss" scoped>
 .logo {
-  height: 60px;
+  height: 40px;
   display: block;
   transition: color .15s ease-in-out;
   color: $textBright;
@@ -34,7 +34,7 @@ export default {
   perspective: 200px;
 
   div {
-    height: 40px;
+    height: 60px;
     position: absolute;
     top: 0;
     left: 0;
